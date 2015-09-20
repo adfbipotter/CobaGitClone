@@ -2,6 +2,7 @@
 	echo "Selamat Datang";
 	echo"<br>";
 ?>
+lalalalala
 
 
 Saeful Nur Kamalludin
